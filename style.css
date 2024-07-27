@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.logo {
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 15px;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+.container {
+    border: 1px solid rgb(158, 173, 158);
+    width: 400px;
+    height: 780px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    gap: 40px;
+    border-radius: 10px;
+    background-color: rgb(192, 192, 192);
+
+
+
+
+}
+
+.my-input {
+    width: 330px;
+    height: 40px;
+    border-radius: 10px;
+
+
+
+}
+
+.placeholder {
+    margin-left: 10px;
+}
+
+select {
+    width: 330px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.input-currency {
+    width: 330px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+button {
+    width: 240px;
+    height: 40px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+    cursor : pointer;
+}
+
+
+
+.brasil {
+    margin-bottom: 10px;
+}
+
+.convertido {
+    margin-top: 15px;
+}
+
+section {
+
+    width: 300px;
+    height: 340px;
+
+    text-align: center;
+    margin-top: 15px;
+
+
+}
+
+.my-input {
+    padding-left: 10px;
+}
+
+.input-currency {
+    padding-left: 15px;
+}
